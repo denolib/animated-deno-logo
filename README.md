@@ -1,5 +1,7 @@
 # Animated Deno logo
 
+![Deno logo](https://denolib.github.io/animated-deno-logo/deno-circle-24fps.gif)
+
 ## Moho Export Setting
 
 - Animated Gif
